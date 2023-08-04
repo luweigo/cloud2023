@@ -5,36 +5,29 @@
   </component>
   <component name="AutomaticModuleUnloader">
     <loaded-modules>
-      <module name="cloud-consumer-order80" />
-      <module name="cloud-provider-payment8004" />
-      <module name="cloud-provider-payment8002" />
-      <module name="cloud-eureka-server7002" />
-      <module name="cloud-provider-payment8001" />
-      <module name="cloud2023" />
-      <module name="cloud-consumerzk-order80" />
       <module name="cloud-api-commons" />
+      <module name="cloud-provider-payment8002" />
+      <module name="cloud-provider-payment8001" />
+      <module name="cloud-eureka-server7002" />
+      <module name="cloud-consumer-order80" />
+      <module name="cloud-consumerzk-order80" />
+      <module name="cloud2023" />
       <module name="cloud-eureka-server7001" />
+      <module name="cloud-provider-payment8004" />
+      <module name="cloud-providerconsul-payment8006" />
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a932007f-bf32-4351-af7d-48eb292da17e" name="Default Changelist" comment="zookeeper和springcloud_luwei">
-      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/cloud-consumerconsul-order80.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/atguigu/springcloud/OrderConsulMain80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/atguigu/springcloud/controller/OrderConsulController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/atguigu/springcloud/PaymentMain8006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="a932007f-bf32-4351-af7d-48eb292da17e" name="Default Changelist" comment="consul和springcloud_luwei">
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/myrule/MySelfRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/资料.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/PaymentMain8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/PaymentMain8001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +87,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -108,11 +101,11 @@
       <recent name="D:\ideaworkspase\cloud2023\cloud-consumerzk-order80\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.myrule" />
       <recent name="com.atguigu.springcloud.config" />
       <recent name="com.atguigu.springcloud" />
       <recent name="com.atguigu.springcloud.controller" />
       <recent name="com.atguigu.springcloud.entities" />
-      <recent name="com.atguigu.springcloud.dao" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -122,14 +115,16 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PaymentMain8004">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.PaymentMain8001">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -227,10 +222,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.PaymentMain8004" />
+        <item itemvalue="Spring Boot.OrderMain80" />
         <item itemvalue="Spring Boot.PaymentMain8002" />
         <item itemvalue="Spring Boot.EurekaMain7002" />
-        <item itemvalue="Spring Boot.OrderMain80" />
+        <item itemvalue="Spring Boot.PaymentMain8004" />
         <item itemvalue="Maven.Unnamed" />
       </list>
     </recent_temporary>
@@ -266,6 +261,7 @@
       <workItem from="1690530139212" duration="1200000" />
       <workItem from="1690774057784" duration="635000" />
       <workItem from="1690858344414" duration="1578000" />
+      <workItem from="1691111952136" duration="6829000" />
     </task>
     <task id="LOCAL-00001" summary="zookeeper和springcloud_luwei">
       <created>1690442853793</created>
@@ -274,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690442853793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="consul和springcloud_luwei">
+      <created>1691048098008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691048098008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +350,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zookeeper和springcloud_luwei" />
-    <option name="LAST_COMMIT_MESSAGE" value="zookeeper和springcloud_luwei" />
+    <MESSAGE value="consul和springcloud_luwei" />
+    <option name="LAST_COMMIT_MESSAGE" value="consul和springcloud_luwei" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cloud2023$OrderZKMain80.ic" NAME="OrderZKMain80 Coverage Results" MODIFIED="1690875486829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
